@@ -5,7 +5,7 @@ I used my Asphalt painter to create a beach with an inlet. It uses 3 painter, on
 
 ## Output:
 
-![alt text](file:///home/chronos/u-b1affc6d83ddedbbc24392ab9fcfa61b82bfbfeb/MyFiles/Downloads/Screenshot%202024-09-10%2010.52.11%20AM.png)
+![Beach](file:///home/chronos/u-b1affc6d83ddedbbc24392ab9fcfa61b82bfbfeb/MyFiles/Downloads/Screenshot%202024-09-10%2010.52.11%20AM.png)
 
 
 ## Reflection
